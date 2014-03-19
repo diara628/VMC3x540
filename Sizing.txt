@@ -1,0 +1,6 @@
+Servo: 400W, torque 0.7 Nm RMS 2.5 Nm peak, 3000RPM cont. 5000RPM max
+Linear slide:
+Ballscrew: D 16mm, pitch 5mm
+Spindle motor: 1.5kW 500RPM 25Nm torque, 3kRPM 5Nm, 5.5kRPM 2Nm 8.5kRPM 1.4Nm, 10kRPM max 1.43Nm
+Max values for Steel (low carbon) 10mm 4f endmill 10.6mmx1mm: 4500mm/min, 1.54kW, 1.67Nm, 8800RPM, MRR 48.4cc
+Max values for Aluminum (wrought) 10mm 2f indexable 3.5mmx9mm: 4870mm/min, 1.47kW, 1.4Nm, 10000RPM, MRR 153cc
