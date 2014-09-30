@@ -1,0 +1,3 @@
+﻿"Movement"= 460
+"Block spacing"= 300
+"Base length"= "Movement" + "Block spacing"
